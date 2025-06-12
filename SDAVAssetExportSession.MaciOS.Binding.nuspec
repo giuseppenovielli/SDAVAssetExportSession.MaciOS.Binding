@@ -31,11 +31,11 @@
     <file src="README.md"/>
     <file src="LICENSE" />
 
-    <file src="src/SDAVAssetExportSession.MaciOS.Binding/SDAVAssetExportSession.MaciOS.Binding/bin/Release/net8.0-ios/SDAVAssetExportSession.MaciOS.Binding.dll" target="lib\net8.0-ios17.2/SDAVAssetExportSession.MaciOS.Binding.dll" />
-    <file src="src/SDAVAssetExportSession.MaciOS.Binding/SDAVAssetExportSession.MaciOS.Binding/bin/Release/net8.0-ios/SDAVAssetExportSession.MaciOS.Binding.pdb" target="lib\net8.0-ios17.2/SDAVAssetExportSession.MaciOS.Binding.pdb" />
+    <file src="src/SDAVAssetExportSession.MaciOS.Binding/SDAVAssetExportSession.MaciOS.Binding/bin/Release/net8.0-ios/SDAVAssetExportSession.MaciOS.Binding.dll" target="lib/net8.0-ios17.2/SDAVAssetExportSession.MaciOS.Binding.dll" />
+    <file src="src/SDAVAssetExportSession.MaciOS.Binding/SDAVAssetExportSession.MaciOS.Binding/bin/Release/net8.0-ios/SDAVAssetExportSession.MaciOS.Binding.pdb" target="lib/net8.0-ios17.2/SDAVAssetExportSession.MaciOS.Binding.pdb" />
 
-    <file src="src/SDAVAssetExportSession.MaciOS.Binding/SDAVAssetExportSession.MaciOS.Binding/bin/Release/net8.0-maccatalyst/SDAVAssetExportSession.MaciOS.Binding.dll" target="lib\net8.0-maccatalyst17.2/SDAVAssetExportSession.MaciOS.Binding.dll" />
-    <file src="src/SDAVAssetExportSession.MaciOS.Binding/SDAVAssetExportSession.MaciOS.Binding/bin/Release/net8.0-maccatalyst/SDAVAssetExportSession.MaciOS.Binding.pdb" target="lib\net8.0-maccatalyst17.2/SDAVAssetExportSession.MaciOS.Binding.pdb" />
+    <file src="src/SDAVAssetExportSession.MaciOS.Binding/SDAVAssetExportSession.MaciOS.Binding/bin/Release/net8.0-maccatalyst/SDAVAssetExportSession.MaciOS.Binding.dll" target="lib/net8.0-maccatalyst17.2/SDAVAssetExportSession.MaciOS.Binding.dll" />
+    <file src="src/SDAVAssetExportSession.MaciOS.Binding/SDAVAssetExportSession.MaciOS.Binding/bin/Release/net8.0-maccatalyst/SDAVAssetExportSession.MaciOS.Binding.pdb" target="lib/net8.0-maccatalyst17.2/SDAVAssetExportSession.MaciOS.Binding.pdb" />
 	</files>
 
 </package>

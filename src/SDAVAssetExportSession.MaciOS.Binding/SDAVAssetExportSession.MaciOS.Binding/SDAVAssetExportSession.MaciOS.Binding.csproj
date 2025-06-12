@@ -9,14 +9,14 @@
   <ItemGroup>
     <ObjcBindingApiDefinition Include="ApiDefinition.cs" />
     <ObjcBindingCoreSource Include="StructsAndEnums.cs" />
+    <ObjcBindingNativeLibrary Include="libSDAVAssetExportSession.a" />
   </ItemGroup>
-  <ItemGroup>
+
+  <!--<ItemGroup>
     <NativeReference Include="libSDAVAssetExportSession.a">
       <Kind>Static</Kind>
-      <SmartLink>False</SmartLink>
+      <SmartLink>True</SmartLink>
     </NativeReference>
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="PrivacyInfo.xcprivacy" />
-  </ItemGroup>
+  </ItemGroup>-->
+
 </Project>
